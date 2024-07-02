@@ -22,7 +22,7 @@ ROS2 Foxy é um conjunto de ferramentas que ajuda os robôs a usarem Pub/Sub. El
 
 ## Conclusão
 
-Gostou de aprender sobre robôs e como eles se comunicam? Este contéudo foi gerado por uma inteligência artificial, porém foi revisado por alguém 99% humano.
+Gostou de aprender sobre robôs e como eles se comunicam? Este contéudo foi gerado por uma inteligência artificial, porém foi revisado por alguém 99% humano, e se quiser se conectar comigo, me siga no [Linkedin](https://www.linkedin.com/in/matheus-dos-santos-silva6/)
 
 Fontes de produção
 Ilustrações de capa: Gerada pela Lexica.Art
