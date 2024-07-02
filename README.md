@@ -9,7 +9,7 @@
   />
 </p>
 
-<a href=".github/article/article.md" title="View PDF now"> 📕Clique aqui para ler</a>
+<a href="article/article.md" title="View PDF now"> 📕Clique aqui para ler</a>
 
 ## 💻 Tecnologias utilizadas no projeto
 
