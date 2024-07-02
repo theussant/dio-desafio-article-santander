@@ -1,4 +1,6 @@
-# ROS2 Foxy: Sistema de Publicação/Assinatura (Pub/Sub)
+<p align="center">
+    <img src="/assets/capa.png">
+</p>
 
 ## Introdução à Comunicação Assíncrona
 
